@@ -1,0 +1,27 @@
+@import
+url(https://fonts.googleapis.com/css?family=Rubik);
+
+body {
+  margin-top: 70 px;
+}
+.well {
+  color: white;
+  background-color: gray;
+}
+ul {
+  list-style-type: square;
+ }
+.source {
+  color: white;
+}
+
+h1 {
+  font-family: Rubik;
+}
+h3 {
+  font-family: Rubik;
+}
+.jumbotron {
+  background-color: silver;
+  
+}
